@@ -1,5 +1,5 @@
 Hobbiest Stock Tracker App 
-using python and tktinter python gui 
+using python, tktinter gui, and yahoo finance api. 
 
 will allow users to add and delete stocks to and from their porfolios and saves the data to a txt file
 
